@@ -1,0 +1,40 @@
+{
+  "pensamentos": [
+    {
+      "conteudo": "Tá falando comigo?",
+      "autoria": "Travis Bickle ",
+      "modelo": "modelo1",
+      "id": 1
+    },
+    {
+      "conteudo": "ET... Telefone... Minha casa.",
+      "autoria": "ET",
+      "modelo": "modelo3",
+      "id": 2
+    },
+    {
+      "conteudo": "Grandes poderes trazem grandes responsabilidades",
+      "autoria": "Tio Ben",
+      "modelo": "modelo2",
+      "id": 3
+    },
+    {
+      "conteudo": "Ou você morre herói, ou vive o suficiente para se tornar o vilão",
+      "autoria": "Harvey Dent ",
+      "modelo": "modelo1",
+      "id": 4
+    },
+    {
+      "conteudo": "A primeira regra do Clube da Luta é: você não fala sobre o Clube da Luta",
+      "autoria": "Tyler Durden",
+      "modelo": "modelo3",
+      "id": 5
+    },
+    {
+      "conteudo": "Nunca deixe que alguém te diga que não pode fazer algo. Nem mesmo eu. Se você tem um sonho, tem que protegê-lo. As pessoas que não podem fazer por si mesmas, dirão que você não consegue. Se quer alguma coisa, vá e lute por ela. Ponto final.",
+      "autoria": "Chris Gardner",
+      "modelo": "modelo2",
+      "id": 6
+    }
+  ]
+}
