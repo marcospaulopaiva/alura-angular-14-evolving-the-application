@@ -4,37 +4,92 @@
       "conteudo": "Tá falando comigo?",
       "autoria": "Travis Bickle ",
       "modelo": "modelo1",
+      "favorito": false,
       "id": 1
     },
     {
       "conteudo": "ET... Telefone... Minha casa.",
       "autoria": "ET",
       "modelo": "modelo3",
+      "favorito": true,
       "id": 2
     },
     {
       "conteudo": "Grandes poderes trazem grandes responsabilidades",
       "autoria": "Tio Ben",
       "modelo": "modelo2",
+      "favorito": true,
       "id": 3
     },
     {
       "conteudo": "Ou você morre herói, ou vive o suficiente para se tornar o vilão",
       "autoria": "Harvey Dent ",
       "modelo": "modelo1",
+      "favorito": true,
       "id": 4
     },
     {
       "conteudo": "A primeira regra do Clube da Luta é: você não fala sobre o Clube da Luta",
       "autoria": "Tyler Durden",
       "modelo": "modelo3",
+      "favorito": false,
       "id": 5
     },
     {
       "conteudo": "Nunca deixe que alguém te diga que não pode fazer algo. Nem mesmo eu. Se você tem um sonho, tem que protegê-lo. As pessoas que não podem fazer por si mesmas, dirão que você não consegue. Se quer alguma coisa, vá e lute por ela. Ponto final.",
       "autoria": "Chris Gardner",
       "modelo": "modelo2",
+      "favorito": false,
       "id": 6
+    },
+    {
+      "conteudo": "Está frio aqui ou é impressão minha",
+      "autoria": "simon phoenix",
+      "modelo": "modelo1",
+      "favorito": false,
+      "id": 7
+    },
+    {
+      "conteudo": "Meu nome é Bond, James Bond!",
+      "autoria": "007",
+      "modelo": "modelo3",
+      "favorito": false,
+      "id": 8
+    },
+    {
+      "conteudo": "Eu Voltarei!",
+      "autoria": "t800",
+      "modelo": "modelo3",
+      "favorito": false,
+      "id": 9
+    },
+    {
+      "conteudo": "Por que tão sério?",
+      "autoria": "coringa",
+      "modelo": "modelo2",
+      "favorito": false,
+      "id": 10
+    },
+    {
+      "conteudo": "Hasta la vista, Baby",
+      "autoria": "t800",
+      "modelo": "modelo3",
+      "favorito": false,
+      "id": 11
+    },
+    {
+      "conteudo": "Muito bom mas tijolo não revida",
+      "autoria": "chong li",
+      "modelo": "modelo2",
+      "favorito": true,
+      "id": 12
+    },
+    {
+      "conteudo": "Você é o próximo",
+      "autoria": "chong li",
+      "modelo": "modelo1",
+      "favorito": false,
+      "id": 13
     }
   ]
 }
