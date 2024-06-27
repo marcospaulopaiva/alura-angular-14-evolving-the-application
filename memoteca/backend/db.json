@@ -11,14 +11,14 @@
       "conteudo": "ET... Telefone... Minha casa.",
       "autoria": "ET",
       "modelo": "modelo3",
-      "favorito": false,
+      "favorito": true,
       "id": 2
     },
     {
       "conteudo": "Grandes poderes trazem grandes responsabilidades",
       "autoria": "Tio Ben",
       "modelo": "modelo2",
-      "favorito": false,
+      "favorito": true,
       "id": 3
     },
     {
@@ -81,7 +81,7 @@
       "conteudo": "Muito bom mas tijolo não revida",
       "autoria": "chong li",
       "modelo": "modelo2",
-      "favorito": false,
+      "favorito": true,
       "id": 12
     },
     {
